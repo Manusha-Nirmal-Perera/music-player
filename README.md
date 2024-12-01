@@ -43,22 +43,7 @@ deleteSong(id):         Deletes a song from the playlist.
 setPlayerDisplay():     Updates the display with the current song's title, artist, and album art.
 
 
-
-*Playlist Example*
-The app comes with a default playlist that includes the following songs:
-
-Payphone - Maroon 5
-Animals - Payphone
-Friends - Marshmello ft. Anne Marie
-Ride It - Jay Sean
-Baby - Justin Bieber
-Sorry - Justin Bieber
-On the Floor - Jennifer Lopez ft. Pitbull
-Under the Influence - Chris Brown
-Broken Angel - Arash
-Closer - The Chainsmokers ft. Halsey
-Each song has the following properties:
-
+*attributes of playlist*
 Title:  The song's name.
 Artist: The artist(s) who performed the song.
 Duration: Length of the song.
