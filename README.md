@@ -63,6 +63,7 @@ To interact with the app, use the following features:
 
 ## Screenshot of the page
 
-Below is the preview of the music player
+Below is a preview of the music player
+
 ![Screenshot of the Todo app](./src/images/screenshot.png)
 
