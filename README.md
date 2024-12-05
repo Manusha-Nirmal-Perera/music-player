@@ -43,22 +43,7 @@ deleteSong(id):         Deletes a song from the playlist.
 setPlayerDisplay():     Updates the display with the current song's title, artist, and album art.
 
 
-
-*Playlist Example*
-The app comes with a default playlist that includes the following songs:
-
-Payphone - Maroon 5
-Animals - Payphone
-Friends - Marshmello ft. Anne Marie
-Ride It - Jay Sean
-Baby - Justin Bieber
-Sorry - Justin Bieber
-On the Floor - Jennifer Lopez ft. Pitbull
-Under the Influence - Chris Brown
-Broken Angel - Arash
-Closer - The Chainsmokers ft. Halsey
-Each song has the following properties:
-
+*attributes of playlist*
 Title:  The song's name.
 Artist: The artist(s) who performed the song.
 Duration: Length of the song.
@@ -74,8 +59,11 @@ To interact with the app, use the following features:
 **Shuffle**: Click the shuffle button to randomize the playlist.
 **Delete Song**: Click the delete icon next to a song to remove it from the playlist.
 **Reset Playlist**: Click the reset button to restore the playlist to its original state.
+<<<<<<< HEAD
 
 ## Screenshot of the page
 
 Below is the preview of the music player
 ![Screenshot of the Todo app](./src/images/screenshot.png)
+=======
+>>>>>>> e44c7b4fd799ee9c1b553f7d01cf01f07022065f
