@@ -74,3 +74,8 @@ To interact with the app, use the following features:
 **Shuffle**: Click the shuffle button to randomize the playlist.
 **Delete Song**: Click the delete icon next to a song to remove it from the playlist.
 **Reset Playlist**: Click the reset button to restore the playlist to its original state.
+
+## Screenshot of the page
+
+Below is the preview of the music player
+![Screenshot of the Todo app](./src/images/screenshot.png)
